@@ -15,5 +15,5 @@ The Corona Tracking Application using the Laravel HTTP Client. This application 
 ## Preview
 
 <div align="center">
-    <img src="public/images/preview.png" width="400px" alt="login"</img>
+    <img src="public/images/preview data.png" width="400px" alt="preview"</img>
 </div>
